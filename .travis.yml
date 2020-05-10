@@ -5,7 +5,6 @@ python:
   - 3.8
   - 3.7
   - 3.6
-  - 3.5
 
 # Command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 install: pip install -U tox-travis
@@ -22,7 +21,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: vMarcelino
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: SP8mw/SsW6fS0YFUw0YHcpHHMtWGoQUO+eqNykNo8ZvZ6/NZf6Tr3slGunbjUobt47hJgB+YjFrArPlXrHxOfnv2QT7iCsChmkIAFVKdQn+R9mcPXoFDTigXD3ykEZRxAwOhM36mQqlyJhHuYRKKeq/Fev5wa97u74J7+NjJ+Dw+XlriFpGnyfUqJbh+4bRmdqA9EUZOuxVyS+s3olAWxAkQY9/KkRrPbw3lEF+YMGV5twZCWbd5MCrjKEYBtfAUeZmhBIFREjQHohU/lxBv6hK3mcsZ1qny66Jni/xcdXKF/MnsconBO2S34saVuxRWcG6HpY+/Cs+8NC4Ph0bj/IKcHzL9P6ByqcF0t3bKoTvAtwFBrwuJ1rsUdZxKtKgVYnOu+u1Aiv04PSuWsspvIjNSGSupkczw9iaHeiOpmf5b1l2cEQNNqd3IODGM1QRxQPlWa86NGTUS9kBIABmRN2oAumkLnEnEs2P/QdvG2Q0b0yBD4b5sIUcfn7b4U3wSUYzj0IeNBJVtKab/y5ea9uV55Kk6EurHo+ltjgwORBPaRxOmvTm/1hiGSoLH5BGJlQe8uINuJ79EwA4ysi8hQVJKyhOgj2VN7n+HYGOqcl1JZgJQAX+nBu67v9jQArDxdsS9jqbc3XS5KiNTZFOscIvFtWSbB4qdvTWqVMEKcKY=
   on:
     tags: true
     repo: vMarcelino/source_optimizer
