@@ -14,10 +14,9 @@ source-optimizer
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/vMarcelino/source_optimizer/shield.svg
+.. image:: https://pyup.io/repos/github/vMarcelino/source-optimizer/shield.svg
      :target: https://pyup.io/repos/github/vMarcelino/source_optimizer/
      :alt: Updates
-
 
 
 A python source code optimizer
