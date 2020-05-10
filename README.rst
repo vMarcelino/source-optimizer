@@ -6,8 +6,8 @@ source-optimizer
 .. image:: https://img.shields.io/pypi/v/source_optimizer.svg
         :target: https://pypi.python.org/pypi/source_optimizer
 
-.. image:: https://img.shields.io/travis/vMarcelino/source_optimizer.svg
-        :target: https://travis-ci.com/vMarcelino/source_optimizer
+.. image:: https://img.shields.io/travis/vMarcelino/source-optimizer.svg
+        :target: https://travis-ci.com/vMarcelino/source-optimizer
 
 .. image:: https://readthedocs.org/projects/source-optimizer/badge/?version=latest
         :target: https://source-optimizer.readthedocs.io/en/latest/?badge=latest
@@ -15,7 +15,7 @@ source-optimizer
 
 
 .. image:: https://pyup.io/repos/github/vMarcelino/source-optimizer/shield.svg
-     :target: https://pyup.io/repos/github/vMarcelino/source_optimizer/
+     :target: https://pyup.io/repos/github/vMarcelino/source-optimizer/
      :alt: Updates
 
 
